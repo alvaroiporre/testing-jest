@@ -1,0 +1,23 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "testing exercises in JavaScript with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroiporre/testing-jest.git"
+  },
+  "author": "Alvaro Iporre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaroiporre/testing-jest/issues"
+  },
+  "homepage": "https://github.com/alvaroiporre/testing-jest#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.21.5",
+    "jest": "^29.5.0"
+  }
+}
